@@ -1,6 +1,6 @@
 
 
-Tic Tac Toe game (web version) made using HTML, JS.
+Tic Tac Toe game (web version) made using HTML,CSS and JS.
 
 
 ## About The Project
